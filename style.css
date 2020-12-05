@@ -1,0 +1,20 @@
+#collection {
+    text-align: center;
+    font-weight: 700;
+    background-color: whitesmoke;
+    /* width: 900%; */
+    border-radius: 50px;
+}
+
+#arrivals{
+    text-align: center;
+    font-weight: 700;
+    /* background-color: whitesmoke; */
+    width: 200%;
+    border-radius: 50px;
+}
+
+#about {
+    text-decoration: none;
+}
+
