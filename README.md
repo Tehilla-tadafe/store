@@ -1,2 +1,2 @@
 # store
-https://infallible-swartz-6b4ac0.netlify.app
+https://tehilla-tadafe.netlify.app/
